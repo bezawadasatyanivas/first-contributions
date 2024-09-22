@@ -8,6 +8,7 @@
 - [Jezex] (https://github.com/Jezex) **9/18/2024**
 - [Miquel] ** Testing **
 - [Gourav Rawat] ** firstone **
+- [Satya Nivas Bezawada] ** Let's make contribution a hobby ! ** 
 - [Kethavrapu Likhitha] (https://github.com/Kethavarapu-Likhitha) **Hello, Lets discuss to open contribution**
 - [Dharma Krishnan](https://github.com/Dharma-krishnan)**My First One, gets to go**
 - [Shaheer Mansoor](https://github.com/Shaheer5) **On the way to create robust apps**
